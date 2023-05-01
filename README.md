@@ -1,6 +1,6 @@
 ### Hola!! Soy Ferran 💻
 
-- 🌱 Estudiando Desarrollo de Aplicaciones Multiplataforma en IFP 📱
+- 🌱 Estudiando Desarrollo de Aplicaciones Web en IFP 📱
 - 🎮 Me gustaría colaborar en un videojuego multijugador 🎮
 - ⚡ Fun fact: Me gusta el mundo de la impresión 3D 🖨️
 
